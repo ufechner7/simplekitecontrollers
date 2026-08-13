@@ -4,6 +4,7 @@ Tested 13 August 2026
 
 ### Without system image
 
+##### Cold start
 Package load time: 11.8 s
 Starting simulation loop: 17.22 s
 
@@ -11,8 +12,13 @@ Starting simulation loop: 17.22 s
 
 ### With system image
 
+##### Cold start
 Package load time: 0.81 s
 Starting simulation loop: 6.19 s
+
+##### Warm start
+Package load time: 0.0 s
+Starting simulation loop: 3.78 s
 
 ## Performance
 
