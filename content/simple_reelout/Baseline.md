@@ -1,12 +1,12 @@
 Baseline example for power production
 
-**Key parameters:
+**Key parameters:**
 -  wind speed at 6 m height: 6 m/s
 -  vertical wind profile: explog
 -  initial tether length: 150 m
 -  final tether length: 350 m
 
-**Figure eight parameters:
+**Figure eight parameters:**
 -  width: 20 °
 -  height: 11 °
 -  center elevation: 26°
