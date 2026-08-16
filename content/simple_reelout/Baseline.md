@@ -21,7 +21,7 @@ Baseline example for power production
 
 ### Time series
 
-![[Pasted image 20260816221302.png]]
+![[Pasted image 20260816231013.png]]
 ### Aerodynamics
 
 ![[Pasted image 20260816224821.png]]
