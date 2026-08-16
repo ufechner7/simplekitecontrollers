@@ -19,6 +19,7 @@ Baseline example for power production
 <img src="Pasted%20image%2020260816220753.png" style="width: 60%;">
 <figcaption><em>Flight path</em></figcaption>
 </figure>
+
 ### Time series
 
 ![[Pasted image 20260816221302.png]]
