@@ -25,4 +25,4 @@ Baseline example for power production
 ![[Pasted image 20260816221302.png]]
 ### Aerodynamics
 
-![[Pasted image 20260816221450.png]]
+![[Pasted image 20260816224821.png]]
