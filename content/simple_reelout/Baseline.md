@@ -3,8 +3,11 @@ Baseline example for power production
 **Key parameters:**
 -  wind speed at 6 m height: 6 m/s
 -  vertical wind profile: explog
+- alpha: 0.08163 # exponent of the wind profile law
+- z0: 0.0002 # surface roughness [m]
 -  initial tether length: 150 m
 -  final tether length: 350 m
+- kv: 0.0408 # v_set = kv * sqrt(force)
 
 **Figure eight parameters:**
 -  width: 20 °
@@ -25,3 +28,6 @@ Baseline example for power production
 ### Aerodynamics
 
 ![[Pasted image 20260816224821.png]]
+### Power
+
+![[Pasted image 20260816233111.png]]
