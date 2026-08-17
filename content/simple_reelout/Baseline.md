@@ -13,8 +13,10 @@ Baseline example for power production
 -  width: 20 °
 -  height: 11 °
 -  center elevation: 26°
+-  minimal elevation: 10 ° (boundary condition, this correspondents to approx 18° minimal center elevation)
 -  depower_setpoint: 0.27 
 -  max_steering: 0.32 # command limit
+I found out that center elevation = 18° gives much more power for the given wind profile. Is 10° minimum at 150 m tether good? Or shall we use a minimal height instead?
 
 ### Flight path
 
